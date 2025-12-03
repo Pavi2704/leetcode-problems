@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavi2704/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
