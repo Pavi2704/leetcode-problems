@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Pavi2704/leetcode-problems/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
