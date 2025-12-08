@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Pavi2704/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Pavi2704/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Array
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Pavi2704/leetcode-problems/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Pavi2704/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
