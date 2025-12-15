@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pavi2704/leetcode-problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1370-increasing-decreasing-string](https://github.com/Pavi2704/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavi2704/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
