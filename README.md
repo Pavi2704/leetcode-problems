@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
