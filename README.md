@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2460-apply-operations-to-an-array](https://github.com/Pavi2704/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Pavi2704/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Pavi2704/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Pavi2704/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/Pavi2704/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
