@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Pavi2704/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
