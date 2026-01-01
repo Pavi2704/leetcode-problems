@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
 | [1925-count-square-sum-triples](https://github.com/Pavi2704/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Pavi2704/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
