@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1370-increasing-decreasing-string](https://github.com/Pavi2704/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Pavi2704/leetcode-problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Counting
