@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Pavi2704/leetcode-problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -92,9 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Pavi2704/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Pavi2704/leetcode-problems/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
