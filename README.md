@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pavi2704/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Pavi2704/leetcode-problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Pavi2704/leetcode-problems/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pavi2704/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Pavi2704/leetcode-problems/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1370-increasing-decreasing-string](https://github.com/Pavi2704/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pavi2704/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pavi2704/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [2460-apply-operations-to-an-array](https://github.com/Pavi2704/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
