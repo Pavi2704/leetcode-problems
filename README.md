@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/Pavi2704/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Pavi2704/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Pavi2704/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Pavi2704/leetcode-problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
