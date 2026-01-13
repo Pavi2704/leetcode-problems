@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pavi2704/leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Pavi2704/leetcode-problems/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1200-minimum-absolute-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Pavi2704/leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Pavi2704/leetcode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
+| [1200-minimum-absolute-difference](https://github.com/Pavi2704/leetcode-problems/tree/master/1200-minimum-absolute-difference) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Pavi2704/leetcode-problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pavi2704/leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
