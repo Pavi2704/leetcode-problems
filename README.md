@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
+| [0728-self-dividing-numbers](https://github.com/Pavi2704/leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 | [1925-count-square-sum-triples](https://github.com/Pavi2704/leetcode-problems/tree/master/1925-count-square-sum-triples) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Pavi2704/leetcode-problems/tree/master/2651-calculate-delayed-arrival-time) |
