@@ -132,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Pavi2704/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
