@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pavi2704/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Pavi2704/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Pavi2704/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0692-top-k-frequent-words](https://github.com/Pavi2704/leetcode-problems/tree/master/0692-top-k-frequent-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Pavi2704/leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Pavi2704/leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Pavi2704/leetcode-problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
