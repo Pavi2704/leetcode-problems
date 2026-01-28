@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Pavi2704/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Pavi2704/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Pavi2704/leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Pavi2704/leetcode-problems/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/Pavi2704/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Pavi2704/leetcode-problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
