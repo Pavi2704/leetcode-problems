@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Pavi2704/leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Pavi2704/leetcode-problems/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Pavi2704/leetcode-problems/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pavi2704/leetcode-problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/Pavi2704/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Pavi2704/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 | [1693-daily-leads-and-partners](https://github.com/Pavi2704/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
