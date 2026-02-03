@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Pavi2704/leetcode-problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Pavi2704/leetcode-problems/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Pavi2704/leetcode-problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Pavi2704/leetcode-problems/tree/master/1068-product-sales-analysis-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Pavi2704/leetcode-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1693-daily-leads-and-partners](https://github.com/Pavi2704/leetcode-problems/tree/master/1693-daily-leads-and-partners) |
 ## Divide and Conquer
